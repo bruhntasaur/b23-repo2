@@ -10,3 +10,5 @@ Lunch menu:
 Butter Chicken 1200 cal 10.99
 Polo 200 cal 15.99
 
+Burger 1000 cal 5.99
+Veggie Bowl 10 cal 5.99
